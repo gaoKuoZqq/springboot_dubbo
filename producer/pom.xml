@@ -33,7 +33,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
 		<!--dubbo 依赖-->
         <dependency>
             <groupId>io.dubbo.springboot</groupId>
