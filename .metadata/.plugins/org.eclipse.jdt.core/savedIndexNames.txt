@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+D:\Desktop\springboot_dubbo\.metadata\.plugins\org.eclipse.jdt.core
