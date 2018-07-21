@@ -1,0 +1,12 @@
+server:
+    port: 8089
+spring:
+    dubbo:
+        application:
+            name: producer-user
+        protocol:
+            name: dubbo
+            port: 20883
+        registry:
+            address: 'zookeeper://192.168.50.32:2181 '
+        scan: com.producer.service

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: consumer-user
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.factory
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://maven.apache.org/consumer-parent/consumer-u
+ ser
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
